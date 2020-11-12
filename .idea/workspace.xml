@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e031933-80df-49f2-8093-df8ae3321e02" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Common/target/Zeyigou-Common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbAddressMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbAreasMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbBrandMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbCitiesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbContentCategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbContentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbFreightTemplateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbGoodsDescMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbItemCatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbOrderItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbPayLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbProvincesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSeckillGoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSeckillOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSellerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSpecificationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSpecificationOptionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbTypeTemplateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/mapper/TbBrandMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/mapper/TbSpecificationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/properties/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/Zeyigou-Dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbAddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbAreasMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbBrandMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbCitiesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbContentCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbContentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbFreightTemplateMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbGoodsDescMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbGoodsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbItemCatMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbOrderItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbOrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbPayLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbProvincesMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbSeckillGoodsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbSeckillOrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbSellerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbSpecificationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbSpecificationOptionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbTypeTemplateMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/com/zeyigou/mapper/TbUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/mapper/TbBrandMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/mapper/TbSpecificationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/properties/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/java/com/zeyigou/manager/controller/BrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/classes/com/zeyigou/manager/controller/BrandController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/classes/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Manager-Web/target/tomcat/logs/access_log.2020-11-12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/group/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/group/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/group/Specification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbAddressExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbAreasExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbBrandExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbCities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbCitiesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbContentCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbContentCategoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbContentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbFreightTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbFreightTemplateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbGoodsDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbGoodsDescExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbGoodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbItemCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbItemCatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbItemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbOrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbOrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbOrderItemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbPayLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbPayLogExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbProvinces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbProvincesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSeckillGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSeckillGoodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSeckillOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSeckillOrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSellerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSpecificationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSpecificationOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbSpecificationOptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbTypeTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbTypeTemplateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/TbUserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/Zeyigou-Pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/group/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/group/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/group/Specification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/PageResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAddressExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAddressExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAddressExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAddressExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAreas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAreasExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAreasExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAreasExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbAreasExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbBrand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbBrandExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbBrandExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbBrandExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbBrandExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbCities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbCitiesExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbCitiesExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbCitiesExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbCitiesExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbContentExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbFreightTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbFreightTemplateExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbFreightTemplateExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbFreightTemplateExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbFreightTemplateExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsDesc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsDescExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsDescExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsDescExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsDescExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbGoodsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemCatExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemCatExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemCatExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemCatExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbItemExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderItemExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderItemExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbOrderItemExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbPayLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbPayLogExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbPayLogExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbPayLogExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbPayLogExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbProvinces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbProvincesExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbProvincesExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbProvincesExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbProvincesExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillGoods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillGoodsExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillGoodsExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillGoodsExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillGoodsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillOrderExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillOrderExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillOrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeckillOrderExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSeller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSellerExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSellerExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSellerExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSellerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationOption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationOptionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationOptionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationOptionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbSpecificationOptionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbTypeTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbTypeTemplateExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbTypeTemplateExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbTypeTemplateExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbTypeTemplateExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbUserExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbUserExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbUserExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/classes/com/zeyigou/pojo/TbUserExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/src/main/java/com/zeyigou/sellergoods/service/BrandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/target/classes/com/zeyigou/sellergoods/service/BrandService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/java/com/zeyigou/sellergoods/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/classes/com/zeyigou/sellergoods/service/impl/BrandServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/classes/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/tomcat/logs/access_log.2020-11-12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/target/Zeyigou-Shop-Web.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/target/Zeyigou-Shop-Web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/target/Zeyigou-Shop-Web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zeyigou-Shop-Web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Zeligou-Common/target/" />
+    <ignored path="$PROJECT_DIR$/Zeligou-Dao/target/" />
+    <ignored path="$PROJECT_DIR$/Zeligou-Pojo/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Manager-Web/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Shop-Web/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Common/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Dao/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Pojo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-288">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4212">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/src/main/java/com/zeyigou/sellergoods/service/BrandService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/java/com/zeyigou/sellergoods/service/impl/BrandServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/properties/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/java/com/zeyigou/manager/controller/BrandController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>maven-compil</find>
+      <find>org.apache.maven.plugins</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Zeyigou-Shop-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeligou-Pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/group/Cart.java" />
+        <option value="$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/group/Goods.java" />
+        <option value="$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/group/Specification.java" />
+        <option value="$PROJECT_DIR$/Zeligou-Dao/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbGoodsDescMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbBrandMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbCitiesMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbContentCategoryMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbContentMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbFreightTemplateMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbGoodsMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbItemCatMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbItemMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbOrderItemMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbOrderMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbPayLogMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbProvincesMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSeckillGoodsMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSeckillOrderMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSellerMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSpecificationMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSpecificationOptionMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbTypeTemplateMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbUserMapper.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/src/main/java/com/zeyigou/sellergoods/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/java/com/zeyigou/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Manager-Web/pom.xml" />
+        <option value="$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/java/com/zeyigou/manager/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/spring/applicationContext-dao.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/javazipfiles/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\javazipfiles\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Zeyigou-Dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Zeyigou-Dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Zeyigou-Manager-Web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="663" />
+    <option name="y" value="68" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
+              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/gitFiles/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2952756" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zeyigou.sellergoods.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\20200810\Zeyigou-Parent\Zeyigou-Dao\src\main\resources\properties" />
+      <recent name="D:\Java\20200810\Zeyigou-Parent\Zeyigou-Dao\src\main\resources\mapper" />
+      <recent name="D:\Java\20200810\Zeyigou-Parent\Zeyigou-Dao\src\main\java\com\zeyigou\mapper" />
+      <recent name="D:\Java\20200810\Zeyigou-Parent\Zeyigou-Pojo\src\main\java\com\zeyigou\pojo" />
+      <recent name="D:\Java\20200810\Zeyigou-Parent\Zeyigou-Pojo\src\main\java\com\zeyigou\group" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.Zeyigou-Sellergoods-Service">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Zeyigou-Manager-Web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Zeyigou-Manager-Web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="Zeyigou-Sellergoods-Service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Zeyigou-Sellergoods-Service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Zeyigou-Manager-Web" />
+      <item itemvalue="Maven.Zeyigou-Sellergoods-Service" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e031933-80df-49f2-8093-df8ae3321e02" name="Default" comment="" />
+      <created>1605172967878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605172967878</updated>
+      <workItem from="1605172972660" duration="1000000" />
+      <workItem from="1605179603918" duration="7571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8571000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.90642" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.10663765" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.6681175" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2962963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510661" />
+      <window_info id="Web" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Shop-Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/pojo/TbContentCategoryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/group/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/group/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Pojo/src/main/java/com/zeyigou/group/Specification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeligou-Dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/group/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Pojo/src/main/java/com/zeyigou/pojo/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbBrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbCitiesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbContentCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbContentMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbFreightTemplateMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbGoodsDescMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbGoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbItemCatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbOrderItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbPayLogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbProvincesMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSeckillGoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSeckillOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSellerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSpecificationMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbSpecificationOptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbTypeTemplateMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/java/com/zeyigou/mapper/TbUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/mapper/TbBrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="274" column="20" selection-start-line="274" selection-start-column="20" selection-end-line="274" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/src/main/java/com/zeyigou/sellergoods/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/java/com/zeyigou/manager/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/src/main/java/com/zeyigou/sellergoods/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4212">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Zeyigou-Manager-Web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2952756" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Zeyigou-Sellergoods-Interface</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2952756" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

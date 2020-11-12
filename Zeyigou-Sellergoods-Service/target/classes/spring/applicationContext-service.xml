@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://code.alibabatech.com/schema/dubbo
+       http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+    <!--1.配置Dubbo 也就是将服务注册到注册中心-->
+    <!--1.1)定义Dubbo的服务名称-->
+    <dubbo:application name="Zeyigou-Sellergoods-Service"/>
+    <!--1.2)配置Dubbo的协议以及端口号 默认端口是20880 之后每添加一个服务端口号就加1-->
+    <dubbo:protocol name="dubbo" port="20881"/>
+    <!--1.3)配置注册中心的地址 Dubbo默认使用zookeeper注册中心 zookeeper注册中心默认端口号为2181-->
+    <dubbo:registry address="zookeeper://192.168.25.129:2181"/>
+    <!--1.4)配置扫描服务所在的包 主要扫描使用Dubbo下alibaba下@Service下的服务-->
+    <dubbo:annotation package="com.zeyigou.sellergoods.service"/>
+</beans>
