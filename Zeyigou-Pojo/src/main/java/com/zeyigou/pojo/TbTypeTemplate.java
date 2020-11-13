@@ -1,8 +1,10 @@
 package com.zeyigou.pojo;
 
+import javax.persistence.Id;
 import java.io.Serializable;
 
 public class TbTypeTemplate implements Serializable {
+    @Id
     private Long id;
 
     private String name;

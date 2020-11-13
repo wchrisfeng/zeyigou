@@ -1,8 +1,10 @@
 package com.zeyigou.pojo;
 
+import javax.persistence.Id;
 import java.io.Serializable;
 
 public class TbProvinces implements Serializable {
+    @Id
     private Integer id;
 
     private String provinceid;

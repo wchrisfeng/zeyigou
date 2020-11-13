@@ -1,9 +1,11 @@
 package com.zeyigou.pojo;
 
+import javax.persistence.Id;
 import java.io.Serializable;
 import java.util.Date;
 
 public class TbUser implements Serializable {
+    @Id
     private Long id;
 
     private String username;

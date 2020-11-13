@@ -1,9 +1,11 @@
 package com.zeyigou.pojo;
 
+import javax.persistence.Id;
 import java.io.Serializable;
 import java.util.Date;
 
 public class TbSeller implements Serializable {
+    @Id
     private String sellerId;
 
     private String name;

@@ -1,10 +1,12 @@
 package com.zeyigou.pojo;
 
+import javax.persistence.Id;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
 public class TbOrder implements Serializable {
+    @Id
     private Long orderId;
 
     private BigDecimal payment;

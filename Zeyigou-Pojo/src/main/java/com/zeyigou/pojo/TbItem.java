@@ -3,12 +3,14 @@ package com.zeyigou.pojo;
 import org.apache.solr.client.solrj.beans.Field;
 import org.springframework.data.solr.core.mapping.Dynamic;
 
+import javax.persistence.Id;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.Map;
 
 public class TbItem implements Serializable {
+    @Id
     private Long id;
    @Field("item_title")
     private String title;

@@ -1,5 +1,6 @@
 package com.zeyigou.sellergoods.service;
 
+import com.zeyigou.pojo.PageResult;
 import com.zeyigou.pojo.TbBrand;
 
 import java.util.List;
@@ -10,4 +11,14 @@ import java.util.List;
  */
 public interface BrandService {
     List<TbBrand> findAll();
+
+    PageResult findByPage(int page, int pageSize);
+
+    PageResult search(int page, int pageSize, TbBrand brand);
+
+    void insert(TbBrand brand);
+
+    void update(TbBrand brand);
+
+    void delete(String[] ids);
 }

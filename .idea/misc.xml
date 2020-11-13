@@ -6,6 +6,9 @@
     <file type="web" url="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service" />
     <file type="web" url="file://$PROJECT_DIR$/Zeyigou-Shop-Web" />
   </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
