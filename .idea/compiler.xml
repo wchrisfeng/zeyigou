@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Zeyigou-Common" />
         <module name="Zeyigou-Dao" />
-        <module name="Zeyigou-Demo" />
         <module name="Zeyigou-Manager-Web" />
         <module name="Zeyigou-Pojo" />
         <module name="Zeyigou-Sellergoods-Interface" />
@@ -17,5 +16,8 @@
         <module name="Zeyigou-Shop-Web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Zeyigou-Demo" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

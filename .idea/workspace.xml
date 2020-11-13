@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e031933-80df-49f2-8093-df8ae3321e02" name="Default" comment="">
+    <list default="true" id="7e031933-80df-49f2-8093-df8ae3321e02" name="Default" comment="OK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,6 +16,7 @@
     <ignored path="$PROJECT_DIR$/Zeyigou-Common/target/" />
     <ignored path="$PROJECT_DIR$/Zeyigou-Dao/target/" />
     <ignored path="$PROJECT_DIR$/Zeyigou-Pojo/target/" />
+    <ignored path="$PROJECT_DIR$/Zeyigou-Demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zeyigou-Dao/src/main/resources/spring/applicationContext-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
@@ -75,23 +76,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zeyigou-Demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4212">
               <caret line="117" selection-start-line="117" selection-end-line="117" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BrandService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zeyigou-Sellergoods-Interface/src/main/java/com/zeyigou/sellergoods/service/BrandService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -270,371 +264,6 @@
               <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="properties" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="manager" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Manager-Web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zeyigou" type="462c0819:PsiDirectoryNode" />
-              <item name="sellergoods" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zeyigou-Parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Zeyigou-Parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Zeyigou-Sellergoods-Service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -787,7 +416,7 @@
       <updated>1605172967878</updated>
       <workItem from="1605172972660" duration="1000000" />
       <workItem from="1605179603918" duration="8110000" />
-      <workItem from="1605224451733" duration="1233000" />
+      <workItem from="1605224451733" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="OK">
       <created>1605187486472</created>
@@ -807,7 +436,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10343000" />
+    <option name="totallyTimeSpent" value="10855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -824,10 +453,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.6681175" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3224401" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4074074" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2531983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2531983" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -856,16 +485,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="OK" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/java/com/zeyigou/manager/controller/BrandController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Zeyigou-Manager-Web/src/main/resources/spring/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -1185,6 +804,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Zeyigou-Demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1264,7 +886,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
