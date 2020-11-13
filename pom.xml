@@ -16,6 +16,7 @@
         <module>Zeyigou-Common</module>
         <module>Zeyigou-Dao</module>
         <module>Zeyigou-Pojo</module>
+        <module>Zeyigou-Demo</module>
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>

@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Zeyigou-Common" />
         <module name="Zeyigou-Dao" />
+        <module name="Zeyigou-Demo" />
         <module name="Zeyigou-Manager-Web" />
         <module name="Zeyigou-Pojo" />
         <module name="Zeyigou-Sellergoods-Interface" />
