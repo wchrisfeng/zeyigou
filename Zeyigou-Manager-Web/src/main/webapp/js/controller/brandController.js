@@ -6,7 +6,7 @@ app.controller("brandController",function ($scope,$controller,brandService) {
     //3.定义方法 查询所有品牌信息
     $scope.findAll=()=>{
         //3.1)向后端发送请求
-        brandService.success(resp=>{
+        brandService.findAll().success(resp=>{
             //3.2)接收后端传来的参数
             $scope.brandList = resp;
         })
